@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-0 .mbr-navbar__items a {
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-0 .mbr-brand__name a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+}

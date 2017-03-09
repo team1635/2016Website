@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://team1635.org/</loc>
+  <lastmod>2016-02-01T08:00:03+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://team1635.org/index.html</loc>
+  <lastmod>2016-02-01T08:00:03+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://team1635.org/frc-competition.html</loc>
+  <lastmod>2016-01-30T04:51:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://team1635.org/about-us.html</loc>
+  <lastmod>2016-02-01T07:43:09+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://team1635.org/sponsors.html</loc>
+  <lastmod>2016-02-01T07:59:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://team1635.org/robots.html</loc>
+  <lastmod>2016-02-01T07:47:57+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://team1635.org/blog.html</loc>
+  <lastmod>2016-01-30T04:52:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://team1635.org/contact.html</loc>
+  <lastmod>2016-01-30T04:52:09+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

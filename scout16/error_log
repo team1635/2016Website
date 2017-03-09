@@ -1,0 +1,63 @@
+[27-Mar-2016 00:30:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 63
+[27-Mar-2016 00:36:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 63
+[27-Mar-2016 00:53:53 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 32
+[27-Mar-2016 00:56:19 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 66
+[27-Mar-2016 00:59:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 89
+[27-Mar-2016 01:00:41 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 89
+[27-Mar-2016 01:02:08 America/Chicago] PHP Parse error:  syntax error, unexpected '$api_match_type' (T_VARIABLE) in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 111
+[27-Mar-2016 01:07:06 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 117
+[27-Mar-2016 01:10:45 America/Chicago] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Start tag expected, '<' not found in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 114
+[27-Mar-2016 01:10:45 America/Chicago] PHP Warning:  SimpleXMLElement::__construct(): Unable To Determine Authorization Token in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 114
+[27-Mar-2016 01:10:45 America/Chicago] PHP Warning:  SimpleXMLElement::__construct(): ^ in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 114
+[27-Mar-2016 01:10:45 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home4/teamadmn/public_html/scout16/updateDefensesApi.php:114
+Stack trace:
+#0 /home4/teamadmn/public_html/scout16/updateDefensesApi.php(114): SimpleXMLElement->__construct('Unable To Deter...')
+#1 /home4/teamadmn/public_html/scout16/updateDefensesApi.php(41): parse_xml_result('Unable To Deter...', '3', 'qual', '10')
+#2 {main}
+  thrown in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 114
+[27-Mar-2016 10:30:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 135
+[27-Mar-2016 10:36:48 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 116
+[27-Mar-2016 10:37:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 137
+[27-Mar-2016 10:43:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/teamadmn/public_html/scout16/updateDefensesApi.php on line 138
+[27-Mar-2016 15:28:37 America/Chicago] PHP Warning:  require_once(getDefenseOptions.php): failed to open stream: No such file or directory in /home4/teamadmn/public_html/scout16/adminMenu.php on line 31
+[27-Mar-2016 15:28:37 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'getDefenseOptions.php' (include_path='.:/opt/php54/lib/php') in /home4/teamadmn/public_html/scout16/adminMenu.php on line 31
+[27-Mar-2016 15:39:18 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home4/teamadmn/public_html/scout16/adminMenu.php on line 15
+[29-Mar-2016 18:18:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 53
+[29-Mar-2016 18:20:01 America/Chicago] PHP Fatal error:  Call to undefined function echo_all_teams() in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 63
+[29-Mar-2016 18:26:02 America/Chicago] PHP Fatal error:  Cannot redeclare echo_single_team() (previously declared in /home4/teamadmn/public_html/scout16/getTeamReport.php:72) in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 113
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 77
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 79
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 81
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 83
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 85
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 88
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 91
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 93
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 95
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 97
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 99
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 101
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 103
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 105
+[29-Mar-2016 18:35:34 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 107
+[29-Mar-2016 18:40:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 79
+[29-Mar-2016 19:11:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 114
+[29-Mar-2016 19:39:12 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 124
+[29-Mar-2016 19:40:54 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 128
+[29-Mar-2016 19:41:14 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 127
+[29-Mar-2016 21:38:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 123
+[29-Mar-2016 22:01:59 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 156
+[30-Mar-2016 11:46:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$event_code_param' (T_VARIABLE), expecting '(' in /home4/teamadmn/public_html/scout16/loadMatchResults.php on line 30
+[30-Mar-2016 11:48:43 America/Chicago] PHP Parse error:  syntax error, unexpected '$event_code_param' (T_VARIABLE), expecting '(' in /home4/teamadmn/public_html/scout16/loadMatchResults.php on line 30
+[30-Mar-2016 11:50:12 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/teamadmn/public_html/scout16/loadMatchResults.php on line 39
+[30-Mar-2016 11:53:32 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/teamadmn/public_html/scout16/loadMatchResults.php on line 42
+[30-Mar-2016 11:54:10 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/teamadmn/public_html/scout16/loadMatchResults.php on line 72
+[30-Mar-2016 11:54:48 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home4/teamadmn/public_html/scout16/loadMatchResults.php on line 144
+[30-Mar-2016 11:55:43 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/teamadmn/public_html/scout16/loadMatchResults.php on line 154
+[30-Mar-2016 11:56:50 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/teamadmn/public_html/scout16/loadMatchResults.php on line 156
+[30-Mar-2016 12:09:52 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/teamadmn/public_html/scout16/loadMatchResults.php on line 244
+[30-Mar-2016 13:04:09 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/teamadmn/public_html/scout16/loadMatchResults.php on line 153
+[31-Mar-2016 12:40:52 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home4/teamadmn/public_html/scout16/getTeams.php on line 89
+[01-Apr-2016 02:20:19 America/Chicago] PHP Warning:  mysql_result(): avg_cross_sally not found in MySQL result index 7 in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 123
+[01-Apr-2016 02:20:19 America/Chicago] PHP Warning:  mysql_result(): avg_cross_draw not found in MySQL result index 7 in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 125
+[01-Apr-2016 02:20:19 America/Chicago] PHP Warning:  mysql_result(): avg_cross_rock not found in MySQL result index 7 in /home4/teamadmn/public_html/scout16/getTeamReport.php on line 127

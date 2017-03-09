@@ -1,0 +1,10 @@
+ul {list-style: none;padding: 0px;margin: 0px;}
+  ul li {display: none;position: relative;float: none;border:0px solid transparent}
+  li ul {display: none;}
+  ul li a {display: block;background: transparent;text-decoration: none;}
+  ul li a:hover {background: transparent;}
+  li:hover ul {display: block; position: absolute;}
+  li:hover li {float: none;}
+  li:hover a {background: transparent;}
+  li:hover li a:hover {background: #000;}
+  #drop-nav li ul li {border-top: 0px;}
